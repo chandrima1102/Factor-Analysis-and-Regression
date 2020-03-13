@@ -1,0 +1,2 @@
+# Factor-Analysis-and-Regression
+This project identified the factors to study satisfaction level of customer. Initially a factor analysis was done to identify the latent variables that influence customer satisfaction. Following this, a regression model was built using these factors for market segmentation. The objective of the project is to use the dataset to build a regression model to predict customer satisfaction.
